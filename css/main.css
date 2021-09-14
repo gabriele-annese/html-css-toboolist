@@ -65,3 +65,36 @@ body {
 .text__section {
     color: #dfe2e4;
 }
+/* SECTION 2 */
+
+.container2 {
+    margin-top: 5px;
+    width: 70%;
+    height: auto;
+    background-color: #fff;
+    margin-left: 15%;
+    padding: 10px;;
+}
+
+.title2 {
+    font-size: 30px;
+}
+
+.triangle {
+    vertical-align: top;
+}
+
+.check {
+    color: #84cebd;
+    border: solid 1px #84cebd;
+    border-radius: 50%;
+}
+
+.container__section {
+    display: inline-block;
+    height: 30px;
+    background-color: #47adf1;
+    padding: 5px;
+    border-radius: 20%;
+    text-align: center;
+}
