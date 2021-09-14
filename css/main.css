@@ -29,3 +29,39 @@ body {
     font-size: 40px;
     display: inline-block;
 }
+
+/* MAIN */
+
+.container {
+    margin-top: 50px;
+    width: 70%;
+    height: 80px;
+    background-color: #fff;
+    margin-left: 15%;
+    padding: 10px;
+}
+
+.task {
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+    padding: 10px; 
+    background-color: #47adf1;
+}
+
+.text__task {
+    color: #fff;
+}
+
+.section {
+    display: inline-block;
+    border: solid 1px #dfe2e4;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.text__section {
+    color: #dfe2e4;
+}
