@@ -78,23 +78,58 @@ body {
 
 .title2 {
     font-size: 30px;
+    margin-top: 30px;
 }
 
 .triangle {
     vertical-align: top;
 }
 
-.check {
+.check { 
+    font-size: 20px;
     color: #84cebd;
     border: solid 1px #84cebd;
-    border-radius: 50%;
+    border-radius: 60%;
+}
+
+.delete {
+    font-size: 20px;
+    color: #ea4237;
+    border: solid 1px #ea4237;
+    border-radius: 60%;
 }
 
 .container__section {
     display: inline-block;
     height: 30px;
-    background-color: #47adf1;
-    padding: 5px;
+    padding: 5px 10px;
     border-radius: 20%;
     text-align: center;
+}
+
+.line {
+    margin-top: 10px;
+}
+
+.text{
+    color: #fff;
+    font-size: 12px;
+}
+
+/* COLOR BACKGROUND */
+
+.color-blue {
+    background-color: #47adf1;
+}
+
+.color-violet {
+    background-color: #9c72e4;
+}
+
+.color-green {
+    background-color: #64c0a9;
+}
+
+.color-orange {
+    background-color: #f29e33;
 }
