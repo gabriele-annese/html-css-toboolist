@@ -103,7 +103,7 @@ body {
     display: inline-block;
     height: 30px;
     padding: 5px 10px;
-    border-radius: 20%;
+    border-radius: 35%;
     text-align: center;
 }
 
@@ -132,4 +132,12 @@ body {
 
 .color-orange {
     background-color: #f29e33;
+}
+
+.color-pink {
+    background-color: #d863a1;
+}
+
+.color-lightgreen {
+    background-color: #b0c926;
 }
