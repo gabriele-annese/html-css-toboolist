@@ -86,6 +86,7 @@ body {
 }
 
 .check { 
+    padding: 2px;
     font-size: 20px;
     color: #84cebd;
     border: solid 1px #84cebd;
@@ -93,7 +94,8 @@ body {
 }
 
 .delete {
-    font-size: 20px;
+    padding: 2px;
+    font-size: 16px;
     color: #ea4237;
     border: solid 1px #ea4237;
     border-radius: 60%;
